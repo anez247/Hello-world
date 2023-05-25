@@ -1,1 +1,1 @@
-# ec2-main-template
+# ec2-template
